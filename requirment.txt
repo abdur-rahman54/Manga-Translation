@@ -1,0 +1,5 @@
+langdetect==1.0.9             # Language detection library
+google-cloud-translate==3.1.0 # Google Cloud Translation API client library
+beautifulsoup4==4.10.0        # Web scraping library
+requests==2.26.0              # HTTP library for making requests
+
